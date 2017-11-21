@@ -26,5 +26,5 @@ def printer(names)
   assign_rooms(names).each do |el|
     puts el
   end
-  
+
 end
